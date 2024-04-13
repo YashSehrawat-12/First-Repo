@@ -1,3 +1,3 @@
 # First-Repo
 This is the first repository in order to learn git &amp; github  <br>
-Author - Yash Sehrawat
+Author - Mr. Yash Sehrawat
